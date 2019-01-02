@@ -1,5 +1,7 @@
 # Ethereum password cracker
 
+[![Join the chat at https://gitter.im/lexansoft/ethcracker](https://badges.gitter.im/lexansoft/ethcracker.svg)](https://gitter.im/lexansoft/ethcracker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 If you forgot your password for Ethereum private key or presale file, but think you still remember 
 the list of possible substrings from wich you constracted the password, then try this progam to 
 routinly go through all the possible combinations and find the working password.
