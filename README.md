@@ -18,7 +18,7 @@ https://gitter.im/lexansoft/ethcracker
     -pk path to the private key file
     -t  path to the template file
     -l  path to the file with all the possible variants (every line has one variant) If -l is specified, -t is ignored
-    -presale  for cracking prelase JSON file
+    -presale  for cracking presale JSON file
     -threads Number of threads
     -v Verbosity ( 0, 1, 2 )
     -start_from Skip first N combinations ( you can specify N as percentage. F.e. : 30% )
