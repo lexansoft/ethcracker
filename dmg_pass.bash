@@ -20,7 +20,7 @@ while IFS='' read -r line || [[ -n "$line" ]]; do
     
         echo "================================================================"
         echo ""
-        echo "            The disk is succesfully mounted!!! "
+        echo "            The disk is successfully mounted!!! "
         echo "            Your password is: $line"
         echo ""
         echo "      Do not forget to donate some ETH to the developer:"

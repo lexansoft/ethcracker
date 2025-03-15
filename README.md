@@ -1,7 +1,7 @@
 # Ethereum password cracker
 
 If you forgot your password for Ethereum private key or presale file, but think you still remember 
-the list of possible substrings from wich you constracted the password, then try this progam to 
+the list of possible substrings from which you constructed the password, then try this program to 
 routinly go through all the possible combinations and find the working password.
 
 PLEASE DO NOT TRUST ANYONE TO COMPILE THE PROGRAM FOR YOU. ALWAYS USE THE SOURCE CODE DOWNLOADED FROM 
@@ -100,7 +100,7 @@ Install Go Language
     
 # Installing on Windows 
 
-On windwos you need to install the Chocolatey:  https://chocolatey.org 
+On windows you need to install the Chocolatey:  https://chocolatey.org 
 
 Then install git, golang and mingw 
 
@@ -123,7 +123,7 @@ If you stored your keys in the encrypted mac DMG image and forgot the password, 
         
         or
         
-        ./dmg_pass.bash v.txt your.dmg N -- to skipp first N lines
+        ./dmg_pass.bash v.txt your.dmg N -- to skip first N lines
 
 # Donation
 

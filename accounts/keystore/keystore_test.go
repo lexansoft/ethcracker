@@ -313,7 +313,7 @@ func TestWalletNotifications(t *testing.T) {
 				account = a
 				break
 			}
-			// Remove an account and ensure wallet notifiaction arrives
+			// Remove an account and ensure wallet notification arrives
 			if err := ks.Delete(account, ""); err != nil {
 				t.Fatalf("failed to delete test account: %v", err)
 			}
