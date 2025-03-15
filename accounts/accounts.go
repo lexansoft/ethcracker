@@ -79,7 +79,7 @@ type Wallet interface {
 	// accounts.
 	//
 	// Note, self derivaton will increment the last component of the specified path
-	// opposed to decending into a child path to allow discovering accounts starting
+	// opposed to descending into a child path to allow discovering accounts starting
 	// from non zero components.
 	//
 	// You can disable automatic account discovery by calling SelfDerive with a nil
